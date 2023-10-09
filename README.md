@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hey I'm Ben Bii a fullstack developer, who is passionate about making open-source more accessible and creating technology to solve problems . The technologies i enjoy working with include Python,PHP laravel,Wordpress, Javascript, React, Ruby and Nextjs I'm also a graphic designer. I believe that collaboration is key to creating amazing products, and I am committed to constantly improving my skills and contributing to the development community. I'm open for any opportunities.</p>
+<p align="left">Hello! I'm Ben Bii, a versatile developer passionate about creating impactful digital solutions. With expertise spanning full-stack development, UI/UX design, and proficiency in technologies such as React, Node.js, MongoDB, and more, I bring a holistic approach to crafting robust and visually appealing applications. Committed to continuous learning and collaboration, I'm excited about contributing to innovative projects and open to new opportunities. Let's connect and explore how we can bring your ideas to life!</p>
 
 ###
 
