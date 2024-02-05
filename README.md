@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello! I'm Ben Bii, a versatile developer passionate about creating impactful digital solutions. With expertise spanning full-stack development, UI/UX design, and proficiency in technologies such as React, Node.js, MongoDB, and more, I bring a holistic approach to crafting robust and visually appealing applications. Committed to continuous learning and collaboration, I'm excited about contributing to innovative projects and open to new opportunities. Let's connect and explore how we can bring your ideas to life!</p>
+<p align="left">Hello! I'm Ben Bii, a versatile developer passionate about creating impactful digital solutions. With expertise spanning full-stack development, UI/UX design, and proficiency in technologies such as Nextjs, React, Node.js, MongoDB, and more, I bring a holistic approach to crafting robust and visually appealing applications. Committed to continuous learning and collaboration, I'm excited about contributing to innovative projects and open to new opportunities. Let's connect and explore how we can bring your ideas to life!</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Motoko & Rust <br>🎯 Goals: to be the best bugs creator near the lights .<br>🎲 Fun fact: i enjoy the nights out in nature whether its a beach or the  mountains.</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Motoko & Rust <br>🎯 Goals: to be the best bugs creator near the lights .<br>🎲 Fun fact: i enjoy the nights out in nature whether its a beach or the  mountains.</p>
 
 ###
 
