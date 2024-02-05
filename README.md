@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning React Native <br>🎯 Goals: to be the best bugs creator near the lights .<br>🎲 Fun fact: i enjoy the nights out in nature whether its a beach or the  mountains.</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Motoko & Rust <br>🎯 Goals: to be the best bugs creator near the lights .<br>🎲 Fun fact: i enjoy the nights out in nature whether its a beach or the  mountains.</p>
 
 ###
 
