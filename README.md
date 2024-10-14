@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello! I'm Ben Bii, a Software engineer passionate about creating impactful digital solutions. With expertise spanning full-stack development, UI/UX design, and proficiency in technologies such as Nextjs, React, Node.js, MongoDB,Docker,Superbase and more, I bring a holistic approach to crafting robust and visually appealing applications. Committed to continuous learning and collaboration, I'm excited about contributing to innovative projects and open to new opportunities. Let's connect and explore how we can bring your ideas to life!</p>
+<p align="left">Hello! I'm Ben Bii, a Software engineer passionate about creating amaizing digital solutions. With expertise spanning full-stack development, UI/UX design, and proficiency in technologies such as Nextjs, React, Vuejs, Node.js, MongoDB,Docker,Superbase and more, I bring a holistic approach to crafting robust and visually appealing applications. Committed to continuous learning and collaboration, I'm excited about contributing to innovative projects and open to new opportunities. Let's connect and explore how we can bring your ideas to life!</p>
 
 ###
 
